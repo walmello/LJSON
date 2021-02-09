@@ -1,3 +1,5 @@
+// you can edit the token to any identifier you want 
+
 const LJSON = {
     token: "/*js>"
 }
