@@ -1,4 +1,4 @@
-# LJSON
+# LJSON (Lambda JSON)
 This simple script can save arrow functions on JSON objects
 
 How to use?
